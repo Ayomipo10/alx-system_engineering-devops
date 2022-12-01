@@ -1,2 +1,2 @@
-#!/bin/bash
-cp -t /0x00-shell_basics.html /alx-system_engineering-devops
+!#/bin/bash
+ls -un /0x00-shell_basics.html /alx-system_engineering-devops
